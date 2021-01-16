@@ -75,6 +75,6 @@ store_redirects:
     - 'surgery'
 
 # Build settings
-remote_theme: Corhsin/Type-on-Strap
+remote_theme: SirRandoo/Type-on-Strap
 plugins:
   -
