@@ -1,9 +1,21 @@
-[
+﻿[
   {
     "author": "Andreas Pardeike",
     "name": "Harmony",
     "steamId": "2009463077",
-    "version": "1.0.4.0"
+    "version": "1.1.1.0"
+  },
+  {
+    "author": "UnlimitedHugs",
+    "name": "HugsLib",
+    "steamId": "818773962",
+    "version": "9.0.1"
+  },
+  {
+    "author": "InfinitySamurai",
+    "name": "RimConnect",
+    "steamId": "1880784338",
+    "version": "1.0.0.0"
   },
   {
     "author": "hodlhodl",
@@ -18,15 +30,63 @@
     "version": "2.0.10.0"
   },
   {
-    "author": "InfinitySamurai",
-    "name": "RimConnect",
-    "steamId": "1880784338",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "SirRandoo",
     "name": "ToolkitUtils",
     "steamId": "2009500580",
-    "version": "5.0.3.1"
+    "version": "6.1.6.0"
+  },
+  {
+    "author": "hodlhodl",
+    "name": "TwitchToolkit - Lootboxes",
+    "steamId": "1720021578",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki,  XeoNovaDan,  Orion,  Kikohi,  Taranchuk,  Sarg Bjornson and  Erdelf",
+    "name": "Vanilla Expanded Framework",
+    "steamId": "2023507013",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Little White Mouse",
+    "name": "LWM's Deep Storage",
+    "steamId": "1617282896",
+    "version": "1.3.0.1"
+  },
+  {
+    "author": "DoctorVanGogh and  TheUbie & pointcache",
+    "name": "Omni Core Drill (Continued)",
+    "steamId": "2562491370",
+    "version": "1.0.1.0"
+  },
+  {
+    "author": "FrozenSnowFox",
+    "name": "[FSF] Better Camp Loot",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "DarkFlame7",
+    "name": "Signs and Comments",
+    "steamId": "2576219203",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "telardo",
+    "name": "DragSelect",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "YAYO",
+    "name": "Yayo's Animation",
+    "steamId": "2575938407",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Hen",
+    "name": "Style Revised - Animalist",
+    "steamId": null,
+    "version": null
   }
 ]
