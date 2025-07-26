@@ -1,9 +1,51 @@
 [
   {
+    "author": "Andreas Pardeike",
+    "name": "Harmony",
+    "steamId": "2009463077",
+    "version": "2.3.4.0"
+  },
+  {
+    "author": "UnlimitedHugs",
+    "name": "HugsLib",
+    "steamId": "818773962",
+    "version": "12.0.0"
+  },
+  {
+    "author": "FrozenSnowFox",
+    "name": "[FSF] Better Camp Loot",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "UnlimitedHugs",
     "name": "Allow Tool",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Fluffy",
+    "name": "Animal Tab",
+    "steamId": "712141500",
+    "version": "4.7.272"
+  },
+  {
+    "author": "Ben",
+    "name": "Automatic Night Owl",
+    "steamId": "2056012179",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "AUTOMATIC",
+    "name": "Bionic icons",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Captain Muscles (Nathan Harbour)",
+    "name": "Do Your F****** Research",
+    "steamId": "3523205869",
+    "version": "1.0.4"
   },
   {
     "author": "telardo",
@@ -12,22 +54,58 @@
     "version": null
   },
   {
+    "author": "Dubwise",
+    "name": "Dubs Mint Menus",
+    "steamId": "1446523594",
+    "version": "1.0.0"
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Mint Minimap",
+    "steamId": "1662119905",
+    "version": "1.2.7365"
+  },
+  {
     "author": "Sixdd",
     "name": "Forbid Those Chunks!",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Sugar Show",
+    "author": "Khorbos",
+    "name": "Go the Fork to Sleep",
+    "steamId": "3523734445",
+    "version": "1.0.6"
+  },
+  {
+    "author": "SClarke",
+    "name": "Ground Targeter",
+    "steamId": "3525070588",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Jaxe",
+    "name": "Interaction Bubbles",
+    "steamId": "1516158345",
+    "version": "4.1.0.0"
+  },
+  {
+    "author": "tofudriver",
+    "name": "Medical Tab - Forked",
+    "steamId": "3228889251",
+    "version": "1.0.0+c9e8b0a81c7dae5a717c227ec63c3c3a5fd01e23"
+  },
+  {
+    "author": "Sugar_Show",
     "name": "Medieval Music",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Fluffy",
-    "name": "Music Manager",
-    "steamId": null,
-    "version": null
+    "author": "Zaljerem",
+    "name": "Music Manager (Continued)",
+    "steamId": "3220120457",
+    "version": "1.0.4.0"
   },
   {
     "author": "Bishop",
@@ -42,6 +120,48 @@
     "version": null
   },
   {
+    "author": "Mehni",
+    "name": "Pick Up And Haul",
+    "steamId": "1279012058",
+    "version": "1.0.0+9bf3e3d10192ecb6019097968fdd99072e45e1ea"
+  },
+  {
+    "author": "Hatti",
+    "name": "QualityBuilder",
+    "steamId": "3512466087",
+    "version": "1.0.17"
+  },
+  {
+    "author": "Reiquard",
+    "name": "Quest Expiration Critical Alert",
+    "steamId": "2405632805",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "AUTOMATIC",
+    "name": "Recipe icons (Continued)",
+    "steamId": "2904906618",
+    "version": "1.6.1"
+  },
+  {
+    "author": "busted_bunny",
+    "name": "Recycle This (Continued)",
+    "steamId": "3253550009",
+    "version": "1.6.0"
+  },
+  {
+    "author": "Mlie",
+    "name": "Relevant Stats In Description",
+    "steamId": "2692669482",
+    "version": "1.6.0"
+  },
+  {
+    "author": "InfinitySamurai",
+    "name": "RimConnect",
+    "steamId": "1880784338",
+    "version": "1.6.0"
+  },
+  {
     "author": "Rizno",
     "name": "RimEVE (Music Pack)",
     "steamId": null,
@@ -52,6 +172,12 @@
     "name": "RimFTL (Music Pack)",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Jaxe",
+    "name": "RimHUD",
+    "steamId": "1508850027",
+    "version": "1.16.3+19591e2831845cc886bd5cb870728e53761882f0"
   },
   {
     "author": "Rizno",
@@ -66,9 +192,45 @@
     "version": null
   },
   {
+    "author": "nry",
+    "name": "ToolkitCore",
+    "steamId": "3013877477",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "nry",
+    "name": "Twitch Toolkit",
+    "steamId": "3013874066",
+    "version": "2.0.10.0"
+  },
+  {
+    "author": "SirRandoo",
+    "name": "ToolkitUtils",
+    "steamId": "2009500580",
+    "version": "7.0.6.0-RC1+1ca7c6f6287e48f5f245b4c8dee252be6f2eda94"
+  },
+  {
+    "author": "Captolamia",
+    "name": "TwitchToolkit - Lootboxes (resurrected) 1.5, 1.6",
+    "steamId": "3239583412",
+    "version": "1.6.0.1"
+  },
+  {
     "author": "Dark_Inquisitor",
     "name": "Verge of Galaxy (Music Mod) 1.0.0",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Fluffy and Jia",
+    "name": "Work Tab",
+    "steamId": "3453549086",
+    "version": "1.6.1+2237a95fa333960b88feffb4335ce056a2022f3f"
+  },
+  {
+    "author": "YAYO and Soky",
+    "name": "Yayo's Animation (Continued)",
+    "steamId": "2877292196",
+    "version": "1.0.0.0"
   }
 ]
